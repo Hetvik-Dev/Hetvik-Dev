@@ -47,7 +47,7 @@ I operate as a full-cycle development department. I handle the entire pipeline: 
 >
 > A logic puzzle game currently live on the Google Play Store.
 > * **Purpose:** A proof-of-concept demonstrating end-to-end execution, from logic algorithms to UI/UX and store policy compliance.
-> * **Get it here:** [Google Play Store Link]([https://play.google.com/store/apps/dev?id=771928507](https://play.google.com/store/apps/details?id=com.cryptogram.filltheblanks))
+> * **Get it here:** [Google Play Store Link](https://play.google.com/store/apps/details?id=com.cryptogram.filltheblanks)
 
 #### 3. [Aquline.com](https://aquline.com)
 > **Role: Freelance Developer** | *Client Work*
