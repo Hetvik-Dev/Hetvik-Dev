@@ -39,14 +39,15 @@ I operate as a full-cycle development department. I handle the entire pipeline: 
 > An intelligent health management ecosystem.
 > * **Innovation:** Features "Guto," a proprietary gamified mascot driven by **Advanced AI**.
 > * **Tech:** Kotlin, Jetpack Compose, Cloud AI.
-> * **Status:** In final staging for global App Store release.
+> * **Status:** Live on Google Play Store.
+> * **Get it here:** [Google Play Store Link](https://play.google.com/store/apps/details?id=com.GutHealthIBS.guto)
 
 #### 2. [Cryptogram: Fill The Blanks](https://github.com/Hetvik-Dev/Cryptogram-Fill-the-blanks)
 > **Role: Game Developer** | *Live Project*
 >
 > A logic puzzle game currently live on the Google Play Store.
 > * **Purpose:** A proof-of-concept demonstrating end-to-end execution, from logic algorithms to UI/UX and store policy compliance.
-> * **Get it here:** [Google Play Store Link](https://play.google.com/store/apps/dev?id=771928507)
+> * **Get it here:** [Google Play Store Link]([https://play.google.com/store/apps/dev?id=771928507](https://play.google.com/store/apps/details?id=com.cryptogram.filltheblanks))
 
 #### 3. [Aquline.com](https://aquline.com)
 > **Role: Freelance Developer** | *Client Work*
